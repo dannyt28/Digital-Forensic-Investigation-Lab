@@ -67,3 +67,7 @@ The MD5 checksum value of the file is displayed here.</p>
 </div>
 <br />
 <br />
+
+
+<h2>Conclusion</h2>
+A standard intrusion detection system (IDS) would have detected the malicious behavior observed in this case through various methods. Firstly, the appearance of an unknown laptop on the company's wireless network would have triggered an alarm. Secondly, any unusual activity from Ann's computer, such as sending messages to an unfamiliar device, would have been identified and flagged by the IDS. Additionally, the network transmission of a file named "recipe.docx" would have been analyzed by the IDS. An effective IDS would have also continuously monitored the network for any signs of unusual activity or traffic patterns and alerted security personnel of potential threats. It would have detected any additional network artifacts left by the attacker, such as unusual outbound traffic or unexpected connections to external devices or servers. In summary, a competent intrusion detection system would have been able to detect and prevent this attack before any harm was caused.
